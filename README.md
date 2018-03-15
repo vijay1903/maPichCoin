@@ -1,0 +1,2 @@
+# maPichCoin
+Cryptocurrency project
